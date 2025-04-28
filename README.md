@@ -2,7 +2,7 @@
 
 🔍 I'm interested in:
 - ⚙️ DevOps
-- 📈 Machine Learning
+- 📈 Sofware Engineering
 - 🌐 Networking
 
 📬 Contact: [marcodomenico.zv@gmail.com](mailto:marcodomenico.zv@gmail.com)
