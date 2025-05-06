@@ -8,4 +8,5 @@
 
 ---
 
-![Top Langs](https://<your-vercel-deployment>.vercel.app/api/top-langs/?username=Marrrco7&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-one-beta-55.vercel.app/api/top-langs/?username=Marrrco7&layout=compact&theme=dark&count_private=true)
+
