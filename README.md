@@ -3,7 +3,6 @@
 🔍 I'm interested in:
 - ⚙️ DevOps
 - 📈 Sofware Engineering
-- 🌐 Networking
 
 📬 Contact: [marcodomenico.zv@gmail.com](mailto:marcodomenico.zv@gmail.com)
 
