@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 🔍 I'm interested in:
-- ⚙️ DevOps
-- 📈 Sofware Engineering
-
+- ⚙️ Software development
+- 📈 Devops Engineering
 📬 Contact: [marcodomenico.zv@gmail.com](mailto:marcodomenico.zv@gmail.com)
 
 
