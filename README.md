@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔍 I'm interested in:
-- ⚙️ Software development
+- ⚙️ Software Development
 - 📈 Devops Engineering
   
 📬 Contact:
