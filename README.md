@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Selected Engineering Projects</h2>
 
 <table>
   <tr>
